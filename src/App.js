@@ -152,7 +152,7 @@ function App() {
         consistently using pointer events. It handles up to three touches at a
         time. This method preserves touch order (which you may or may not want
         to do, depending on the situation).{" "}
-        <a href="https://feed.grantcuster.com/">View source</a>
+        <a href="https://github.com/GrantCuster/pointerEvents">View source</a>
       </div>
     </div>
   );
