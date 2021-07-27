@@ -1,5 +1,7 @@
 # Pointer events demo
 
+Live demo at https://grantcuster.github.io/pointerEvents
+
 A minimal demo exploring how to handle mouse and touch events consistently using pointer events. It handles up to three touches at a time. It preserves touch order (which you may or may not want to do, depending on the situation).
 
 This demo is built within React, though it uses refs to mainly work outside the React render loop.
